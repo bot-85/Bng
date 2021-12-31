@@ -208,22 +208,20 @@ def ___jeeck___xnano___xxz___():
     print '\x1b[1;94m  ║\x1b[1;97m YOUR NAME FB   :\x1b[1;93m %s'%(nama);time.sleep(0.03)
     print '\x1b[1;94m  ║\x1b[1;97m IP DEVICE      :\x1b[1;93m %s'%(IP)
     print '\x1b[1;94m  ║\x1b[1;97m SETATUS USER   :\x1b[1;93m ACTIVE'
-    print '\x1b[1;94m  ║\x1b[1;97m TOOLS NICK     :\x1b[1;93m SIMBF ｡◕‿◕｡'
+    print '\x1b[1;94m  ║\x1b[1;97m TOOLS NICK     :\x1b[1;93m Theon ｡◕‿◕｡'
     print '\x1b[1;94m  ║\x1b[1;97m PROJECTED TEAM :\x1b[1;93m YAYAN XD , RISKY , XNXCODE╰_╯'
     print '\x1b[1;94m✠═║════════════════════════════════════════════════════✠\n';time.sleep(0.03)
-    print ( " \033[0;36m[\033[0;35m01\033[0;36m]\033[0;00m Dump id public facebook");time.sleep(0.03)
-    print ( " \033[0;36m[\033[0;35m02\033[0;36m]\033[0;00m Dump id pertemanan facebook");time.sleep(0.03)
-    print ( " \033[0;36m[\033[0;35m03\033[0;36m]\033[0;00m Dump id followers facebook");time.sleep(0.03)
-    print ( " \033[0;36m[\033[0;35m04\033[0;36m]\033[0;00m Dump id reactionts post facebook");time.sleep(0.03)
-    print ( " \033[0;36m[\033[0;35m05\033[0;36m]\033[0;00m Get data target [ GET ]");time.sleep(0.03)
-    print ( " \033[0;36m[\033[0;35m06\033[0;36m]\033[0;33m Starts Cracking");time.sleep(0.03)
-    print ( " \033[0;36m[\033[0;35m07\033[0;36m]\033[0;00m Cek results crack ");time.sleep(0.03)
-    print ( " \033[0;36m[\033[0;35m08\033[0;36m]\033[0;00m Seting User agent");time.sleep(0.03)
-    print ( " \033[0;36m[\033[0;35m09\033[0;36m]\033[0;00m Projected Team   ");time.sleep(0.03)
-    print ( " \033[0;36m[\033[0;35m10\033[0;36m]\033[0;00m TUTOR BUKAK SESI");time.sleep(0.03)
-    print ( " \033[0;36m[\033[0;35m11\033[0;36m]\033[0;00m Panduan Pengguna ")
-    print ( " \033[0;36m[\033[0;35m12\033[0;36m]\033[0;00m JOIN GROUP [FB/WA ]")
-    print ( " \033[0;36m[\033[0;35m00\033[0;36m]\033[0;00m Deleted [ TOKEN ]");time.sleep(0.03)
+    print ( " \033[0;36m[\033[0;35m01\033[0;36m]\x1b[1;97m Dump id public facebook");time.sleep(0.03)
+    print ( " \033[0;36m[\033[0;35m02\033[0;36m]\x1b[1;97m Dump id pertemanan facebook");time.sleep(0.03)
+    print ( " \033[0;36m[\033[0;35m03\033[0;36m]\x1b[1;97m Dump id followers facebook");time.sleep(0.03)
+    print ( " \033[0;36m[\033[0;35m04\033[0;36m]\x1b[1;97m Dump id reactionts post facebook");time.sleep(0.03)
+    print ( " \033[0;36m[\033[0;35m05\033[0;36m]\x1b[1;97m Get data target [ GET ]");time.sleep(0.03)
+    print ( " \033[0;36m[\033[0;35m06\033[0;36m]\x1b[1;92m Starts Cracking");time.sleep(0.03)
+    print ( " \033[0;36m[\033[0;35m07\033[0;36m]\x1b[1;97m Cek results crack ");time.sleep(0.03)
+    print ( " \033[0;36m[\033[0;35m08\033[0;36m]\x1b[1;97m Seting User agent");time.sleep(0.03)
+    print ( " \033[0;36m[\033[0;35m09\033[0;36m]\x1b[1;97m Projected Team   ");time.sleep(0.03)
+    print ( " \033[0;36m[\033[0;35m10\033[0;36m]\x1b[1;97m TUTOR BUKAK SESI");time.sleep(0.03)
+    print ( " \033[0;36m[\033[0;35m00\033[0;36m]\x1b[1;91m Deleted [ TOKEN ]");time.sleep(0.03)
     ___jeeck___X___almira___cans___ = raw_input ( " \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Menu : ")
     if ___jeeck___X___almira___cans___ == '':
         print ( " \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Isi dengan benar kawan");time.sleep(2);___jeeck___xnano___xxz___()
@@ -235,10 +233,6 @@ def ___jeeck___xnano___xxz___():
         ___jeeck___lope___almira___canz___(lalalalaganigani)
     elif ___jeeck___X___almira___cans___ in['4','04']:
         ___jeeck___sayang___almira___postinganngentodbokep___(lalalalaganigani)
-    elif ___jeeck___X___almira___cans___ in['11','11']:
-        panduanxnano()
-    elif ___jeeck___X___almira___cans___ in['12','12']:
-        jeeck_group()
     elif ___jeeck___X___almira___cans___ in['6','06']:
         ___jeeck___run___().___almira___cans___()
     elif ___jeeck___X___almira___cans___ in['5','05']:
@@ -282,27 +276,6 @@ def ___jeeck___xnano___xxz___():
     else:
         print '\n %s[%s+%s] menu [%s%s%s] tidak ada, cek menu nya bro!'%(B,P,B,P,___jeeck___X___almira___cans___,N);time.sleep(2);___jeeck___xnano___xxz___()
 
-
-def jeeck_group():
-  print ("°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°")
-  print ("         JOIND GROUP FB + WHATSAPP PO ")
-  print ("°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°")
-  print ( " \033[0;36m[\033[0;35m01\033[0;36m]\033[0;00m Komunitas Termux Facebook");time.sleep(0.03)
-  print ( " \033[0;36m[\033[0;35m02\033[0;36m]\033[0;00m Termux belajar dan script Facebook");time.sleep(0.03)
-  print ( " \033[0;36m[\033[0;35m03\033[0;36m]\033[0;00m XNXCODE TEAM [ PERUDALL ACCOUNT ]");time.sleep(0.03)
-  print ("°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°")
-  __jeeck__xxx__hu___ = raw_input ( " \n\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Menu : ")
-  if __jeeck__xxx__hu___ == '':
-        print ( " \033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m Isi dengan benar kawan");time.sleep(2);___jeeck___xnano___xxz___()
-  elif __jeeck__xxx__hu___ in['1','01']:
-      os.system('xdg-open https://www.facebook.com/groups/319376899697354')
-      ___jeeck___xnano___xxz___()
-  elif __jeeck__xxx__hu___ in['2','02']:
-      os.system('xdg-open https://www.facebook.com/groups/221877543390653')
-      ___jeeck___xnano___xxz___()
-  elif __jeeck__xxx__hu___ in['3','03']:
-      os.system('xdg-open https://chat.whatsapp.com/F145IYqFwcXH0EYSawcxl2')
-      ___jeeck___xnano___xxz___()
 
 
 # INI ADALAH SERVER PRIBADI UBAH SEDIKIT PALING EROR
@@ -596,45 +569,6 @@ def ___jeeck___sayang___almira___inpocookkkk___():
     jeeck_love_almira(" %s[%s•%s]           NGGAK DI FOLLOW PECAH PALA KAU :V"%(P,B,P))
     raw_input('\n  [ %sENTER%s ] '%(P,B));___jeeck___xnano___xxz___()
 
-
-
-def panduanxnano():
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;35m Menu Panduann Penggunaan")
-         jeeck_love_almira("\n\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 1. Tools Ini Terdapat Beberapa Jenis Tools")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 2. Anda Dapat Memilih Salah Satu Menu Tools")
-#         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 3. Tools Ini Terdapat Fitur Crcak Instagram")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 4. Dan Juga Ada Fitur Crack Facebook")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 5. Menu Crack Facebook Sangat Banyak Sekali Fitur")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 6. Dari Mulai Segi Dump Public Hingga Dump dump reactionts")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 7. Apa Itu Dump Id Public Bang...... ??")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 8. Public Yang Ya Dumpublic Dump Id Orang Secara Random")
- #        jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 9. Dump Id group Maksudnya apa Bwank.....? Seriusnanya")
-#         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 10. Kita Dumpnya Ambil Id Dari Group Dan Kita Dapat MENGOBOKOBOKOBOK RANDOM MEMBER GROUP")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 11. Bang Kalo Menu User Agent Fungsinya Buat Apa .....??")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 12. Kita Dapat Mengganti User-Agent Sesuai Kita  👀 Udah Tau Bang")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 13. Agent adalah proses mengakui dan menganalisis string agen pengguna untuk mengenali properti string.")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 14. 👀 Bang Kalo Ganti User Agent Itu Dapat One Tap Kahh")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 15. Belum Tentu Onetap ")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 16. Bang Cara Onetap Bagaimana SAYA MAU PAMER")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 17. 1.Dump Id Yang Temanya Sedaerah Dengan Lu")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 18. 2.Baca Bismillah Terlebih Dahulu")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 19. 3.Pada Saat Mau Buka Sesi Usahakan Anda Mempunyai 2 SIM")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 20. 4.Semisal Lu Pada Saat Crack Pake Sim1 Terus Lubuka Sesi Pake Sim 2")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 21. 5.Bang Masih Kagak Bisa ....??? .·´¯`(>▂<)´¯`·.")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 22. 6.Pake Methode Ganti Apn ")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 23. 7.Bang Apn Dapet Nya Darimana...???･ﾟﾟ･(>д<)･ﾟﾟ･")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 24. 8.Cari Di Google Banyak")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 25. 9.Bang Kegunaan Apn Untuk Apa")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 25. 10.fungsi APN adalah untuk menyambungkan device dengan operator penyedia layanan internet.")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 26. 11.Bang Lu Recode Ya NGGAK KO Hehehe ")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 27. 12.Bang Kok Methode Mbasic Kek Punya YayanXD ")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 28. 13.Oh Itu Emang Gwe Izin Ke YayanXD Ambil.Cuplikan Methode MBASIC")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 29. 14.Sama Aja Lu Recode Bwank ....? ENGGAK KOK HAL INI SAYA SEBUT KERJA SAMA")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 30. 15.Methode B-Api Yang Buat Sya , Mbasic Yang Buat YayanXD, Mobile FB Yang Buat RISKY/SUHU DUMAII")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 31. 16.Oooh Begitu Ya Bang.... Iyaa")
-         jeeck_love_almira("\033[0;36m[\033[0;35m+\033[0;36m]\033[0;00m 32. 17.Iyaa Bwank BTW MAKASIH UDAH PAKE TOOLS.SAYA")
-         raw_input('\n%s[%s+%s] \033[0;33m[%s Enter \033[0;33m] '%(B,P,B,p,))
-         ___jeeck___xnano___xxz___()
 def ___jeeck___bukaksesi___():
   print(" APN SESI S7I");time.sleep(0.03)
 
